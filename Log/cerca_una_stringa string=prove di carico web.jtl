@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,bytes,latency
+1389562202140,3677,www.google.it,200,OK,Test_0,text,true,1,1
+1389562216518,499,https://www.google.it/#q=prove+di+carico+web,200,OK,Test_0,text,true,1,1
+1389562221728,322,https://www.google.it/#q=prove+di+carico+web&start=10,200,OK,Test_0,text,true,1,1
+1389562226417,322,https://www.google.it/#q=prove+di+carico+web&start=20,200,OK,Test_0,text,true,1,1
+1389562241540,356,https://www.google.it/#q=prove+di+carico+web&start=30,200,OK,Test_0,text,true,1,1

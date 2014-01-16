@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,bytes,latency
+1389550563657,2509,www.google.it,200,OK,Test_0,text,true,1,1

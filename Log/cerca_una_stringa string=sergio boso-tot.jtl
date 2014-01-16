@@ -1,0 +1,14 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,bytes,latency
+1389048089052,1017,www.google.it,200,OK,Test_0,text,true,1,1
+1389048098079,20923,https://www.google.it/search?num=100&site=&source=hp&q=sergio+boso&oq=sergio+boso&gs_l=hp.3..0l2j0i22i30l4j0i22i10i30.795.851.0.1176.11.2.0.0.0.0.192.260.1j1.2.0....0...1c.1.32.hp..10.1.68.sO_ZCsTryCI,200,OK,Test_0,text,true,1,1
+1389113767498,448,www.google.it,200,OK,Test_0,text,false,1,1
+1389114689929,472,www.google.it,200,OK,Test_0,text,false,1,1
+1389129519441,481,www.google.it,200,OK,Test_0,text,false,1,1
+1389129811907,443,www.google.it,200,OK,Test_0,text,true,1,1
+1389130620745,396,www.google.it,200,OK,Test_0,text,false,1,1
+1389132033331,379,www.google.it,200,OK,Test_0,text,false,1,1
+1389132202890,443,www.google.it,200,OK,Test_0,text,false,1,1
+1389132816219,518,www.google.it,200,OK,Test_0,text,true,1,1
+1389132819693,2951,https://www.google.it/#q=sergio+boso,200,OK,Test_0,text,true,1,1
+1389133257034,538,www.google.it,200,OK,Test_0,text,true,1,1
+1389133261415,2530,https://www.google.it/#q=sergio+boso,200,OK,Test_0,text,true,1,1

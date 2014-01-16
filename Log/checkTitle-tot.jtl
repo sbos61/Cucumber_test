@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,bytes,latency
+1389113773098,6133,www.bosoconsulting.it,200,OK,Test_0,text,false,1,1
+1389114691007,3082,www.bosoconsulting.it,200,OK,Test_0,text,false,1,1
+1389129521187,2286,www.bosoconsulting.it,200,OK,Test_0,text,false,1,1
+1389129814023,3165,www.bosoconsulting.it,200,OK,Test_0,text,false,1,1
+1389130625077,2606,www.bosoconsulting.it,200,OK,Test_0,text,false,1,1
